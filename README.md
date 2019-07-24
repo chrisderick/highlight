@@ -1,2 +1,5 @@
-# spotlight
-A repository for the third Interdisciplinar Project of UDF's System Analysis and Development course.
+# Spotlight
+
+Spotlight é uma plataforma de letras de música desenvolvida para fins de estudo.
+
+
