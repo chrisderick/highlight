@@ -1,5 +1,5 @@
-# Spotlight
+# Highlight
 
-Spotlight é uma plataforma de letras de música desenvolvida para fins de estudo.
+Highlight é uma plataforma de letras de música desenvolvida para fins de estudo.
 
 
