@@ -1,5 +1,12 @@
 package com.udfdevs.highlight.model;
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+import javax.persistence.Entity;
+
+@Entity @Getter @Setter @NoArgsConstructor
 public class Grupo {
     private Integer id;
     private String nome;
